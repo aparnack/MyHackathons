@@ -1,3 +1,6 @@
+This was my second hackathon experience and I secured 22nd rank among 2050+ participants.
+The topper's AUC-ROC score was just 0.002 above mine.
+
 This was a 24 hour hackathon, started at April 14th, 2018 5pm pacific time.
 
 The problem was about predicting stroke probability given a few demographic and personal attributes. Evaluation metric was AUC-ROC. The details are in the notebook.
